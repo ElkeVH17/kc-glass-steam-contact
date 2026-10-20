@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cooreman;Kristof;;;
+FN:Kristof Cooreman
+ORG:KC Glass & Steam
+TEL;TYPE=CELL:+32468175742
+EMAIL;TYPE=INTERNET:kristof@kcglass-steam.be
+ADR;TYPE=WORK:;;Dries 21;Denderbelle;;9280;Belgium
+URL:https://www.kcglass-steam.be
+END:VCARD
